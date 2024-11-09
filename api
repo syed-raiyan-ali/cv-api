@@ -1,0 +1,23 @@
+{
+  "learningTasks": [
+    { "id": 1, "name": "Python Fullstack", "completed": false },
+    { "id": 2, "name": "Tailwind", "completed": false },
+    { "id": 3, "name": "German B2 level", "completed": false },
+    { "id": 4, "name": "German A2 level (w/o certificate)", "completed": true },
+    { "id": 5, "name": "React", "completed": false },
+    { "id": 6, "name": "Introduction to data science", "completed": false },
+    { "id": 7, "name": "Any cloud computing course", "completed": false }
+  ],
+
+  "projectTasks": [
+    { "id": 1, "name": "Web Resume", "completed": false },
+    { 
+      "id": 2, 
+      "name": "KeyFrenzy (typing speed)", 
+      "completed": true, 
+      "url": "https://syed-raiyan-ali.github.io/KeyFrenzy/" 
+    },
+    { "id": 3, "name": "Vigenere Table", "completed": false },
+    { "id": 4, "name": "More Fluid Webpage", "completed": false }
+  ]
+}
