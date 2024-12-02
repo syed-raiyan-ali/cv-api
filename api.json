@@ -10,7 +10,10 @@
   ],
 
   "projectTasks": [
-    { "id": 1, "name": "Web Resume", "completed": true },
+    { "id": 1, "name": "Web Resume", 
+      "completed": true ,
+      "url": "https://resume-rouge-psi.vercel.app/"
+    },
     { 
       "id": 2, 
       "name": "KeyFrenzy (typing speed)", 
