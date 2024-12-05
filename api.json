@@ -12,7 +12,7 @@
   "projectTasks": [
     { "id": 1, "name": "Web Resume", 
       "completed": true ,
-      "url": "https://resume-rouge-psi.vercel.app/"
+      "url": "https://web-resume16.vercel.app/"
     },
     { 
       "id": 2, 
