@@ -5,6 +5,7 @@
     { "id": 3, "name": "German B2 level", "completed": false },
     { "id": 4, "name": "German A2 level (w/o certificate)", "completed": true },
     { "id": 5, "name": "React", "completed": true },
+    { "id": 5, "name": "Android App Dev.", "completed": true },
     { "id": 6, "name": "Introduction to data science", "completed": false },
     { "id": 7, "name": "Any cloud computing course", "completed": false }
   ],
